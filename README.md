@@ -1,6 +1,6 @@
 # Simple Calculator 🧮
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://github.com/Somya6422/Simple_Calculator/releases/latest)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://github.com/somyaranjansahoo6422/Simple_Calculator/releases/latest)
 [![Python Version](https://img.shields.io/badge/Python-3.x-yellow?style=flat-square&logo=python)](https://www.python.org/)
 
 A lightweight, interactive command-line calculator built with Python. This project demonstrates basic arithmetic operations, user input handling, and standard error management.
@@ -17,7 +17,7 @@ A lightweight, interactive command-line calculator built with Python. This proje
 
 You do not need to install Python or know how to code to use this calculator. You can run the standalone executable directly on your Windows machine.
 
-1. **[Click here to go to the Latest Release](https://github.com/Somya6422/Simple_Calculator/releases/latest)** or click the blue download badge at the top of this page.
+1. **[Click here to go to the Latest Release](https://github.com/somyaranjansahoo6422/Simple_Calculator/releases/latest)** or click the blue download badge at the top of this page.
 2. Under the **Assets** section, download the `Simple Calculator.exe` file.
 3. Double-click the downloaded `.exe` file to open the calculator and start crunching numbers!
 
@@ -36,7 +36,7 @@ If you want to view, run, or modify the Python source code, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Somya6422/Simple_Calculator.git
+   git clone https://github.com/somyaranjansahoo6422/Simple_Calculator.git
    ```
 
 2. Navigate into the project directory:
